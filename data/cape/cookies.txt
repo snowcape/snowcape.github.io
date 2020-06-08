@@ -1,7 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-okamiowl.tk	TRUE	/phpmyadmin/	FALSE	1999999999	goto	deleted
-okamiowl.tk	TRUE	/phpmyadmin/	FALSE	1999999999	back	deleted
-okamiowl.tk	TRUE	/phpmyadmin/	FALSE	1999999999	pma_lang	en
-okamiowl.tk	TRUE	/phpmyadmin/	FALSE	1999999999	phpMyAdmin	uf91aduns6koqs14norvalakb0
-
